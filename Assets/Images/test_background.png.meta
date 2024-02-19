@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9d384b58a7091ac4fa60a8842eea2ff1
+guid: e0fd5fed40ac5df40ad5ceb372776319
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -127,91 +127,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: maj_novy_0
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 10
-        width: 102
-        height: 130
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 377260dedff21c544bcc1c215f7ec63b
-      internalID: -1138340629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: maj_novy_1
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 10
-        width: 102
-        height: 128
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54bfa9ad275f5804683bb6979151c3c7
-      internalID: 1976604420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: maj_novy_2
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 10
-        width: 102
-        height: 138
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c973b9c9e1f1ab4c913ebf4c044b00d
-      internalID: 1523669379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: maj_novy_3
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 10
-        width: 102
-        height: 138
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a0c1542553e45e419df5751d20397ff
-      internalID: -2046298559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -222,11 +138,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      maj_novy_0: -1138340629
-      maj_novy_1: 1976604420
-      maj_novy_2: 1523669379
-      maj_novy_3: -2046298559
+    nameFileIdTable: {}
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
